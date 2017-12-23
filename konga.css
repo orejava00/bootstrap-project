@@ -1,0 +1,82 @@
+body{background-color:#F2F2F2}
+#div1{height:17px;
+		width:10%;
+		background-color:#2C4F75;
+		;
+		text-align: center;
+		padding:10px;
+		margin-left: 20%;}
+.link1{color:#FFFFFF;text-decoration:none;font-family:arial;font-size: 15px}
+a{text-decoration:none;color:#2C2C2C;font-family:arial;font-size:12px}
+li:hover{background-color:grey;color:#2C2C2C;padding:px;}
+#div2{border-bottom:3px solid #335C88;background-color:#FFFFFF;margin-top:-6px;width:101.5%;background-size:cover;margin-left:-1%}
+#div3{margin-left:60%;margin-top:-19px}
+#logo{margin-left:20%;margin-top:20px}
+#searc{margin-top:-47px;margin-left:-4%;background-color:}
+.input1{color: #335C88;margin-left:45%;height:27px;border-radius: 2px;border:1px solid #325D88;}
+.input2{background-color:#F9A026;color:#525252;font-size:17px;font-family:arial;margin-left:76.9%;position:relative;top:-34px;height:33px}
+#list1{list-style-type:none;border-top:2px solid #335C88;border-bottom:1px solid #335C88;background-color:#FFFFFF;width:80%;margin-left:8%;height:63px}
+.lilist1{display:inline-block;padding:22px;margin-top:-1px}
+#anime1{width:75%;
+		height:350px;
+		background-image:url(2017-07-24-04-07-071470971821.jpg);
+		animation-name:anime;
+		animation-duration:8s;
+		animation-iteration-count:infinite;
+		animation-fill-mode:forwards;
+		position: relative;
+		left:8%;
+		z-index:}
+ @keyframes anime{
+ 				  0%{background-image:url(2017-07-24-04-07-071470971821.jpg);}
+ 				  50%{background-image:url(2017-07-27-02-07-251327342846.jpg);}
+ 				  100%{background-image:url(2017-07-31-04-07-311728092749.jpg);}
+ }
+ .deal{position:relative;left:85%;top:-250px;}
+ #women{background-color:#C5256C;width:15%;height:50px;margin-left:8%;margin-top:-100px}
+ .women{margin-left:23%;margin-top:-25px;}
+ .wom{margin-top:10px;margin-left:4%}
+ #list2{list-style-type:none;background-color:#FFFFFF;margin-top:0px}
+ .lilist2{margin-top:7px;}
+.link2{font-family:arial;font-size: }
+
+table{width:;background-color: #FFFFFF;margin-left:100%;margin-top:-308px;border-collapse:collapse;border-color:#E7E7E7}
+#td1{background-color:#8DE9DE;width:30%;height:150px;}
+.td2{height:150px;}
+
+#men{height:50px;width:15%;background-color:#155970;margin-top:280px;margin-left:8%}
+.man{margin-top:15px;margin-left:4%}
+.men {margin-top:-25px;margin-left:23%;}
+#list3{list-style-type: none;background-color:#FFFFFF;width:12.4%;margin-left:8%;margin-top:-5px}
+
+#table2{margin-left:23%;position: relative;top:14px}
+
+
+#phones{background-color:#CD0027;width:15%;height: 50px;margin-top:50px;margin-left:8%}
+.phone{margin-top:15px;margin-left:4%}
+.mphones{margin-top:-25px;margin-left:23%}
+#table3{position: relative;top:13px;margin-left:23%}
+
+#electro{height:50px;width:15%;background-color:#1885C2;margin-top:50px;margin-left:8%;}
+.elect{margin-top:15px;margin-left:7%}
+.electron{margin-top:-26px;margin-left:27%}
+
+#powers{height:50px;width:15%;margin-top:50px;margin-left:8%;background-color:#B5934A}
+.powersolu{margin-left:7%;margin-top:15px}
+.powerso{margin-top:-25px;margin-left:25%}
+
+footer{background-color:#464646;height:400px;width:101.1%;margin-top:100px;margin-left:-0.6%}
+#buying{position:relative;top:30px}
+.pan{color:#FFFFFF;margin-left:8%}
+.link3{margin-left:1%;color:#858585;}
+.link3:hover{text-decoration:underline;}
+#konga{margin-top:50px}
+#pay{margin-top:20px}
+#search{float: right;margin-top:40px;margin-right:10%}
+.inpt{height: 40px;width:65%}
+#inpt{height:43px;background-color:#FAA624}
+#social{float:right;margin-top:110px;margin-right:-11%}
+
+.phones{position:relative;display: inline-block;padding:22px;margin-top:-1px}
+.phones-menu{position:absolute;left:0 %;display:none;list-style-type:none;background-color:#FFF;z-index:1;width:100%}
+.phones:hover .phones-menu{display:block;}
